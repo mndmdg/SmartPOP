@@ -1,0 +1,5 @@
+{
+  "name": "SmartPOP - Lightweight Manufacturing Management",
+  "description": "A responsive Point of Production (POP) system for real-time manufacturing management, featuring admin master data control, work order issuance, and mobile-friendly production performance logging for workers.",
+  "requestFramePermissions": []
+}
